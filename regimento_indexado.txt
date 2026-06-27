@@ -1,0 +1,1107 @@
+﻿#index 0
+Art. 1o Aprovar as seguintes alterações no Regimento Geral da Universidade Federal de Minas Gerais, consolidadas no ANEXO:
+ 
+                            I - Artigo 95, caput
+                            Onde se lê:
+                            
+#index 1
+Art. 95. A UFMG reconhecerá como órgão de representação do corpo discente, no plano da Universidade, o Diretório Central dos Estudantes-DCE, e, no plano das Unidades, os Diretórios Acadêmicos-DAs ou Centros Acadêmicos-CAs, entidades autônomas organizadas nos termos dos respectivos estatutos, aprovados na forma da lei.
+                                Leia-se:
+                            
+#index 2
+Art. 95. A UFMG reconhecerá como órgão de representação do corpo discente, no plano da Universidade, o Diretório Central dos Estudantes-DCE, e, no plano das Unidades, os Diretórios Acadêmicos-DAs ou Centros Acadêmicos-CAs, entidades autônomas organizadas nos termos dos respectivos estatutos e cujas atas de eleição e posse de seus dirigentes sejam cientificadas ao Reitor ou ao Diretor da respectiva Unidade Acadêmica, dispensadas quaisquer outras formalidades.
+ 
+                            II - Artigo 95, § 1o
+                            Onde se lê:
+                            § 1o O DCE, os DAs ou CAs, conforme o âmbito definido no caput deste artigo, comunicarão ao Reitor, ou ao Diretor da respectiva Unidade Acadêmica, os nomes dos membros integrantes de sua diretoria, sempre que houver mudança de gestão, mediante apresentação da ata de posse e seu devido registro civil em cartório.
+                            Leia-se:
+                            § 1o O DCE, os DAs ou CAs, conforme o âmbito definido no caput deste artigo, comunicarão ao Reitor, ou ao Diretor da respectiva Unidade Acadêmica, os nomes dos membros integrantes de sua diretoria, sempre que houver mudança de gestão, mediante apresentação da ata de eleição e posse dos seus dirigentes, dispensadas quaisquer outras formalidades.
+ 
+                        
+#index 3
+Art. 2o Revogam-se as disposições em contrário, em especial a Resolução Complementar no 03/2018, de 17 de abril de 2018.
+ 
+#index 4
+Art. 3o A presente Resolução entra em vigor na data de sua publicação no Boletim Informativo da UFMG.
+Professora Sandra Regina Goulart Almeida
+Presidente do Conselho Universitário
+ 
+ANEXO À RESOLUÇÃO COMPLEMENTAR No 03/2022,
+DE 10 DE NOVEMBRO DE 2022
+ 
+ 
+REGIMENTO GERAL DA UFMG
+ 
+TÍTULO I
+Das Disposições Preliminares
+ 
+
+
+#index 5
+Art. 1o O presente Regimento Geral contém as disposições básicas sobre as atividades comuns às Unidades e aos demais órgãos da Universidade Federal de Minas Gerais-UFMG, nos planos didático-científico, administrativo, financeiro, patrimonial e disciplinar.
+
+
+#index 6
+Art. 2o O Conselho Universitário, o Conselho de Ensino, Pesquisa e Extensão-CEPE e o Colegiado Superior de cada Unidade regulamentarão, no âmbito de suas respectivas competências, as atividades peculiares aos órgãos da UFMG e as demais matérias previstas no Estatuto e neste Regimento Geral, por meio de Resoluções, respeitada a legislação vigente.
+
+
+#index 7
+Art. 3o As Resoluções podem ser Comuns e Complementares.
+§ 1o A Resolução Comum caracteriza-se por:
+I  -  visar tão somente à regulamentação das matérias relativas às atividades habituais de natureza acadêmica e administrativa da Universidade e da comunidade universitária, definida no art. 68 do Estatuto;
+II - produzir efeitos que não têm implicações na estrutura organizacional da Universidade.
+§ 2o A Resolução Complementar caracteriza-se por:
+I -  dispor sobre matérias previstas no Estatuto e neste Regimento Geral;
+II - produzir efeitos que têm implicações na estrutura organizacional da Universidade.
+
+
+#index 8
+Art. 4o As Resoluções Comuns são aprovadas por maioria simples de votos.
+
+
+#index 9
+Art.  5o As Resoluções Complementares são aprovadas por maioria qualificada de votos, conforme disposto no art. 13, §§ 1o, 3o, 4o e 5o, e no art. 91 do Estatuto da Universidade.
+§ 1o São matérias regulamentadas por Resoluções Complementares a serem aprovadas por votos de, no mínimo, dois terços dos membros do Conselho Universitário:
+I  - aprovação ou modificação do Estatuto da Universidade;
+II - criação, desmembramento, fusão ou extinção de Unidades, Pró-Reitorias, Câmaras Acadêmicas e Órgãos Suplementares;
+III - estabelecimento da política de pessoal e aprovação da organização dos respectivos quadro e plano de cargos e salários;
+IV - estabelecimento do regime de trabalho dos integrantes das carreiras de magistério e definição do exercício de cargos e funções diretivas na Universidade;
+V - alienação de imóveis da Universidade e estabelecimento de operações de crédito com garantia.
+§ 2o São matérias regulamentadas por Resoluções Complementares a serem aprovadas pela maioria absoluta de votos:
+I - dos membros do Conselho Universitário:
+a) aprovação ou modificação deste Regimento Geral, ouvido o CEPE, nas matérias de sua competência;
+b) criação, desmembramento, fusão ou extinção de Departamentos ou estruturas equivalentes, Órgãos Complementares, Colegiados Especiais, Órgãos da Reitoria, Órgãos Auxiliares da Administração e outros órgãos da Universidade;
+c) constituição, atribuições e funcionamento do Conselho de Integração Comunitária;
+d) elaboração e modificação do Código de Convivência Discente.
+II - dos membros do Conselho de Ensino, Pesquisa e Extensão:
+a) elaboração e modificação das Normas Gerais de Graduação, das Normas Gerais de Pós-Graduação e das Normas Gerais de Educação Básica e Profissional;
+b) suspensão temporária de cursos de Graduação, Mestrado, Doutorado, bem como de cursos sequenciais e outros;
+c) determinação da composição e das atribuições de Colegiados Especiais;
+d) regulamentação da revalidação e do reconhecimento de diplomas;
+e) elaboração e modificação do Código Disciplinar da Educação Básica e Profissional.
+III - dos membros de Congregação de Unidade Acadêmica: aprovação do Regimento de seu Órgão Complementar, caso haja.
+
+
+#index 10
+Art. 6o Para todos os efeitos deste Regimento Geral, o disposto nas referências a Departamento, Câmara Departamental e Assembleia Departamental aplicam-se às estruturas consideradas equivalentes.
+
+
+#index 11
+Art. 7o O Conselho de Ensino, Pesquisa e Extensão e o Colegiado Superior de cada Unidade, no uso de suas atribuições de proposição e manifestação sobre matérias a serem regulamentadas pelo Conselho Universitário, atenderão, em seus respectivos âmbitos, às mesmas exigências referentes ao quorum mínimo de aprovação requerido pela matéria no âmbito do conselho superior, conforme disposto no art. 5o, §§ 1o e 2o deste Regimento Geral.
+
+
+#index 12
+Art. 8o A modificação, mesmo que parcial, de qualquer Resolução implicará a extinção da Resolução anterior e a edição de nova Resolução, contemplando toda a matéria, exceto no caso de simples retificação de erro material.
+
+
+#index 13
+Art. 9o As Resoluções Complementares entrarão em vigor a partir de sua publicação no Boletim Informativo da UFMG.
+Parágrafo único. As demais Resoluções deverão ser amplamente divulgadas por meios impressos ou eletrônicos.
+TÍTULO II
+Dos Órgãos Colegiados
+
+
+#index 14
+Art. 10. São considerados órgãos colegiados da UFMG aqueles de natureza coletiva, representativa, sejam deliberativos, sejam consultivos, com composição definida no Estatuto ou em resolução específica aprovada pelo Conselho Universitário ou pelo Colegiado Superior de cada Unidade.
+SUBTÍTULO I
+Do Funcionamento
+
+
+#index 15
+Art. 11. Os órgãos colegiados da UFMG funcionarão com a presença de, no mínimo, a maioria absoluta dos seus membros, definida no art. 7º, § 4º do Estatuto, ressalvados os casos expressamente mencionados no Estatuto e neste Regimento Geral.
+§ 1o Cada órgão colegiado elaborará seu próprio regulamento interno de funcionamento, observados os princípios deste Regimento Geral.
+§ 2o O quorum mínimo para o funcionamento e a deliberação dos colegiados será apurado mediante o cômputo apenas das representações e das vagas efetivamente preenchidas.
+§ 3o É vedada a realização de reuniões deliberativas durante o mês de janeiro, exceto quando se tratar de período letivo.
+§ 4o As licenças e os afastamentos temporários de qualquer natureza e duração, inclusive o período de férias de servidor do(s) corpo(s) docente e técnico-administrativo em educação e a suspensão disciplinar, salvo no caso de haver recurso administrativo com pendência na decisão final, impedirão que os membros dos colegiados, nessa condição, participem das reuniões.
+§ 5o A representação cujos membros efetivo e suplente estiverem ambos afastados ou licenciados não será computada, para efeito de quorum, na hipótese prevista no § 4o deste artigo.
+§ 6o As reuniões de caráter público e solene serão realizadas independentemente de quorum.
+§ 7o A ausência de representação de qualquer corpo constitutivo da comunidade universitária definida no art. 68 do Estatuto não impedirá o funcionamento do órgão colegiado.
+
+
+#index 16
+Art. 12. As reuniões ordinárias dos colegiados serão convocadas pelo respectivo Presidente, e, as de caráter extraordinário, pela mesma autoridade, por iniciativa própria, ou por requerimento de um terço de seus membros.
+§ 1o Os membros dos colegiados serão convocados para as reuniões, com antecedência mínima de quarenta e oito horas, mediante aviso individual, por quaisquer meios disponíveis, aprovados pelo respectivo colegiado, e serão informados da pauta, salvo se for considerada reservada pela Presidência.
+§ 2o São considerados de caráter reservado assuntos que envolverem a reputação de pessoas.
+§ 3o O prazo de convocação poderá ser reduzido, a juízo da Presidência, em se tratando de matéria a ser apreciada em regime de urgência, caso em que a pauta poderá ser comunicada verbalmente e por meio eletrônico, aos membros do colegiado.
+§ 4o O Presidente poderá, em caráter excepcional, mediante justificativa e ouvido o Plenário, incluir assuntos supervenientes na pauta, no momento da reunião.
+§ 5o As decisões do Presidente ad referendum do colegiado terão prioridade na organização da pauta das reuniões subsequentes à data em que foram tomadas.
+§ 6o Os órgãos colegiados realizarão pelo menos uma reunião ordinária por período letivo.
+
+
+#index 17
+Art. 13. O comparecimento dos membros de colegiado às reuniões, seja de órgãos colegiados, seja de suas câmaras ou de comissões internas, será preferencial a qualquer outra atividade administrativa, de ensino, pesquisa e extensão.
+§ 1o  O  comparecimento a reuniões de órgãos colegiados hierarquicamente superiores é preferencial em relação aos de hierarquia inferior.
+§ 2o O membro efetivo, quando impossibilitado de comparecer à reunião, será responsável pela notificação de sua ausência à secretaria pertinente e a seu suplente, para que o substitua.
+§ 3o O membro representante perderá o mandato nas seguintes situações:
+I  -  ausência injustificada a três reuniões consecutivas ou a cinco intercaladas, observado o disposto no caput deste artigo;
+II - desligamento do corpo ou órgão representado;
+III - desvinculação da classe funcional que representa;
+IV - afastamento ou licenciamento por período igual ou superior a um terço do tempo de mandato a ser cumprido;
+V - afastamento ou licenciamento por período que ultrapasse a data do término do mandato, qualquer que seja sua duração.
+§  4o  O representante discente que, por qualquer motivo, obtiver trancamento de matrícula ou sofrer sanção disciplinar que implique afastamento por prazo igual ou superior a noventa dias corridos, perderá o mandato, salvo no caso de haver recurso administrativo com pendência na decisão final.
+§ 5o O membro suplente, no caso de vacância da representação efetiva antes do final do mandato, assumirá a representação pelo período máximo de três meses, desde que não ultrapasse o término do mandato original.
+§ 6o No caso de vacância da suplência, haverá eleição de substituto para cumprimento do restante do mandato, em conformidade com o previsto nos artigos 9o, parágrafo único; 15, § 2o; 20, § 1o e art. 32, parágrafo único do Estatuto.
+
+
+#index 18
+Art.  14.  A Presidência do colegiado, nas faltas ou impedimentos eventuais do Presidente, será exercida por seu substituto legal.
+§ 1o Em caso de impedimento do substituto legal, a Presidência do colegiado será assumida pelo decano, nos termos do art. 7o, § 3o do Estatuto.
+§ 2o No caso de impedimento ou recusa do decano, será observada a sequência decrescente de antiguidade no magistério.
+§ 3o O decano de um colegiado, ao assumir a Presidência, será, por sua vez, automaticamente substituído por seu suplente ou substituto legal.
+§ 4o O decanato, no âmbito do Departamento, será apurado entre os membros docentes da Câmara Departamental ou da Assembleia Departamental, quando for o caso.
+§ 5o O Reitor assumirá a Presidência dos trabalhos, sempre que estiver presente a reunião de qualquer colegiado da Universidade, exceto do Conselho de Curadores.
+§ 6o O Diretor de Unidade Acadêmica ou Diretor-Geral de Unidade Especial assumirá a Presidência dos trabalhos, sempre que estiver presente a reunião de qualquer colegiado, no âmbito de sua respectiva Unidade.
+
+
+#index 19
+Art. 15. As reuniões dos colegiados compreenderão uma parte de expediente, destinada à discussão e votação de ata e às comunicações da presidência, e outra relativa à ordem do dia, na qual serão apreciados os assuntos da pauta.
+§ 1o Para cada assunto da pauta, haverá uma fase de discussão e outra de votação.
+§ 2o A fase de discussão se encerrará quando da manifestação do último inscrito.
+§ 3o A definição do número de inscrições para manifestações, bem como a duração de cada intervenção, durante a fase de discussão, é prerrogativa da Presidência, ouvido o Plenário.
+§ 4o A Presidência, ouvido o Plenário, poderá alterar a ordem dos trabalhos, dar preferência ou atribuir urgência a determinado(s) assunto(s).
+§ 5o A Presidência poderá retirar item de pauta, ouvido o Plenário.
+§ 6o Será concedida vista da documentação referente a item de pauta a qualquer membro do colegiado que a solicitar, desde que ocorra durante a reunião em que o tema for objeto de discussão pela primeira vez e previamente à fase de votação, ficando o(s) solicitante(s) obrigado(s) a emitir parecer escrito sobre a matéria, no prazo de dez dias, independentemente do número de solicitações, sob pena de caducidade do pedido de vista.
+§ 7o O prazo de dez dias poderá ser ampliado, a juízo do Plenário, devendo a matéria ser incluída na pauta da primeira reunião subsequente.
+§ 8o O regime de urgência impedirá a concessão de vista, a não ser para exame da documentação referente a item de pauta no decorrer da própria reunião, no prazo de até sessenta minutos, durante os quais a discussão do item ficará suspensa.
+§ 9o O regime de urgência deverá ser registrado no aviso de convocação para a reunião, salvo se o fato motivador da urgência tiver ocorrido posteriormente, ou se a relevância do assunto o exigir, caso em que, na abertura dos trabalhos, tal regime será declarado pela Presidência, ouvido o Plenário.
+§ 10.  A aprovação do Plenário é condição para que assuntos da pauta sejam baixados em diligência.
+§ 11. Por requerimento do colegiado, por maioria absoluta, ou proposta da Presidência, ouvido o Plenário, em ambos os casos, diante do surgimento de fato novo relevante, matéria já decidida pelo Plenário poderá ser reexaminada, ressalvado o disposto no Título V - Da Revisão deste Regimento Geral.
+
+
+#index 20
+Art. 16. Cada assunto pautado para a reunião, uma vez encerrada a fase de discussão, será submetido à votação do Plenário.
+§ 1o Serão consideradas aprovadas as propostas que obtiverem maioria simples de votos dos presentes, salvo se houver disposição diversa expressa no Estatuto da UFMG ou neste Regimento Geral, quanto à exigência de quorum de aprovação diferenciado.
+§ 2o A votação será simbólica, nominal ou secreta, adotando-se como regra geral a primeira forma, salvo quando estiver expressamente definida no Estatuto da UFMG ou neste Regimento Geral.
+§ 3o Os Presidentes dos colegiados, nos casos de empate, terão direito à emissão de voto de qualidade, além do voto comum.
+§ 4o Os membros de colegiados terão direito a apenas um voto nas deliberações, sempre exercido pessoalmente, excetuada a hipótese prevista no § 3o deste artigo.
+§ 5o Os membros de colegiados, em hipótese alguma, poderão votar em assunto de seu interesse pessoal.
+§ 6o Terá precedência na votação o parecer emitido por parecerista ou comissão designados para esse fim, para subsidiar decisão de órgão colegiado.
+§ 7o Poderá ser votado em bloco assunto que envolver vários itens, sem prejuízo de apresentação e discussão de destaque(s), cuja aprovação ficará condicionada à exigência de quorum idêntico ao que o aprovou no contexto da votação em bloco.
+§ 8o Os membros dos colegiados terão assegurada sua liberdade de manifestação, não sendo suas intervenções em Plenário passíveis de instauração de processo disciplinar, ressalvadas as consequências decorrentes de legislação superior.
+
+
+#index 21
+Art. 17. Cada reunião de colegiado será registrada em ata lavrada pelo secretário, discutida e aprovada em sessão posterior, culminando com a assinatura do documento por todos os membros participantes de sua aprovação.
+§ 1o Será considerada válida a ata aprovada com a assinatura do presidente, do secretário e dos presentes à reunião que a aprovou, ou, alternativamente, acompanhada da lista de presença da reunião, com as respectivas assinaturas.
+§ 2o Após aprovada, a ata terá caráter público e será disponibilizada na página eletrônica do órgão pertinente.
+§ 3o Em casos especiais será facultado ao órgão colegiado a aprovação e assinatura da ata na mesma sessão.
+§ 4o A retificação de ata de reunião antecedente será consignada na ata da reunião em que a alteração for solicitada.
+
+
+#index 22
+Art. 18. As decisões dos órgãos colegiados constituirão matéria de Resoluções a serem baixadas por seus respectivos presidentes, salvo quando se tratar de aprovações, autorizações, homologações, despachos e comunicações de Secretaria.
+
+
+#index 23
+Art. 19. Ressalvados os casos expressamente previstos no Estatuto da UFMG, é vedado o exercício cumulativo de mandato em mais de um órgão de deliberação superior da UFMG.
+SUBTÍTULO II
+Das Eleições
+
+
+#index 24
+Art. 20. As eleições previstas no Estatuto da UFMG ocorrem:
+I -  em âmbito geral;
+II - em órgãos colegiados.
+
+
+#index 25
+Art. 21. As eleições em âmbito geral visam à escolha de representantes do corpo docente e do corpo técnico-administrativo em educação da Universidade, para comporem os colegiados.
+
+
+#index 26
+Art. 22. As eleições em órgãos colegiados visam à:
+I - elaboração de lista de nomes para escolha de dirigentes institucionais pela autoridade superior competente;
+II - escolha de representante(s) de determinado órgão colegiado para compor(em) outro;
+III - escolha de dirigente(s) de órgão colegiado;
+IV - escolha de membro(s) para compor(em) comissões permanentes do próprio órgão colegiado, entre seus integrantes;
+V - escolha de integrante(s) de comissões especiais.
+
+
+#index 27
+Art. 23. São previstas no Estatuto da UFMG as seguintes eleições em âmbito geral:
+I - pelo corpo docente:
+a) eleição de professores para integrarem o Conselho Universitário (art. 8o, VI);
+b) eleição de até seis docentes para integrarem o CEPE (art. 15, IX);
+c) eleição de três professores para integrarem o Conselho de Curadores (art. 20, III);
+d) eleição de representantes docentes pelos pares, para integrarem as Congregações das Unidades Acadêmicas (art. 41, III).
+II - pelo corpo técnico-administrativo em educação:
+a) eleição de representantes do corpo técnico-administrativo em educação para integrarem o Conselho Universitário (art. 8o, VII);
+b) eleição de representante do corpo técnico-administrativo em educação para integrar o Conselho de Curadores (art. 20, VI);
+c) eleição de representantes do corpo técnico-administrativo em educação para integrarem o Conselho de Diretores (art. 32, VII).
+III - pelos Coordenadores de Colegiados de Cursos de Graduação: eleição de três professores para integrarem o CEPE (art. 15, VII);
+IV - pelos Coordenadores de Colegiados de Cursos de Pós-Graduação: eleição de três professores para integrarem o CEPE (art. 15, VIII).
+Parágrafo único. As eleições a que se refere este artigo deverão estar concluídas, no mínimo, cinco dias antes do término da vigência dos mandatos, exceto as previstas no inciso II, caso em que deverão estar concluídas, no mínimo, trinta dias antes do término da vigência dos mandatos.
+
+
+#index 28
+Art. 24. São previstas no Estatuto da UFMG as seguintes eleições em órgãos colegiados:
+I - pelos Conselhos Universitário, de Ensino, Pesquisa e Extensão e de Curadores, em reunião conjunta:
+a) para elaboração de lista de nomes para escolha do Reitor da Universidade (artigos 26 e 27);
+b) para elaboração de lista de nomes para escolha do Vice-Reitor da Universidade (artigos 30 e 31).
+II - pela Comissão de Orçamento e Contas do Conselho Universitário: eleição, entre seus membros, de um representante para integrar e presidir o Conselho de Curadores (art. 20, I);
+III - pelo Conselho Universitário: eleição de dois representantes do Colegiado, escolhidos entre seus membros, para integrarem o Conselho de Curadores (art. 20, II);
+IV - pela Congregação de Unidade Acadêmica:
+a) para elaboração de lista de nomes para escolha do Diretor da Unidade (art. 42, I);
+b) para elaboração de lista de nomes para escolha do Vice-Diretor da Unidade (art. 42, I);
+c) para elaboração de lista de nomes para escolha de Diretor de Órgão Complementar pelo Diretor da Unidade (art. 67);
+d) eleição de um professor para integrar o Conselho Universitário (art. 8o, V);
+e) eleição de um professor para integrar o Conselho de Ensino, Pesquisa e Extensão (art. 15, IV).
+V - pelo Colegiado Superior de cada Unidade Especial não vinculada a Unidade Acadêmica: eleição de um professor para integrar o CEPE (art. 15, VI);
+VI - pelo Conselho Diretor de Órgão Suplementar: para elaboração de lista tríplice para escolha de seu Diretor e de seu Vice-Diretor (art. 66, § 2o);
+VII - pela Assembleia do Departamento: para eleição do Chefe e do Subchefe por maioria absoluta dos votos de seus membros (art. 51, I; art. 52; art. 53, parágrafo único);
+VIII - pelo Colegiado de Curso: eleição do Coordenador e do Subcoordenador pela maioria absoluta dos votos de seus membros (art. 55 caput, § 2o).
+Parágrafo único. Em cada órgão colegiado, são eleitores todos os seus membros efetivos.
+
+
+#index 29
+Art. 25. As eleições são convocadas:
+I -  pelo Reitor, no âmbito da Universidade;
+II - pelo Diretor, no âmbito da Unidade.
+
+
+#index 30
+Art. 26. Nas eleições em âmbito geral e em órgãos colegiados, serão observados os seguintes procedimentos:
+I  - as eleições serão precedidas de divulgação de edital, com antecedência mínima de quarenta e cinco dias da data de sua realização, exceto as de âmbito da Unidade, cuja antecedência mínima será de quinze dias;
+II - o edital de eleição preverá, no mínimo:
+a) as condições de elegibilidade;
+b) o período, o local e o horário de inscrição de candidato(s);
+c) a declaração de aceite da investidura no cargo pelo(s) candidato(s), caso seja(m) eleito(s);
+d) o período de vigência do mandato do(s) eleito(s) e a data de seu início;
+e) a permissão, ou não, de recondução;
+f) o conjunto dos eleitores;
+g) a data, o local e o período de realização da eleição;
+h) a data, o local e o horário da apuração dos votos;
+i) o período de recebimento de recurso(s);
+j) a data da homologação do resultado.
+III - as eleições ocorrerão por escrutínio secreto;
+IV - serão elegíveis apenas os candidatos que declararem, prévia e expressamente, que aceitarão a investidura no mandato, se escolhidos;
+V - cada eleitor terá direito a apenas um voto, exercido pessoalmente, em um único nome para cada cargo a ser provido;
+VI - a autoridade competente nomeará a(s) comissão(ões) receptora e escrutinadora;
+VII - a apuração dos votos ocorrerá imediatamente após o encerramento da eleição;
+VIII -  será considerado eleito o candidato mais votado, ressalvada disposição diversa, expressa na regulamentação relativa à constituição do órgão colegiado.
+§ 1o Será lavrada ata correspondente a cada pleito, contendo quadro sucinto com a indicação individualizada dos resultados obtidos e do(s) nome(s) do(s) candidato(s) eleito(s), a qual será submetida à aprovação da comissão escrutinadora.
+§ 2o Caberá recurso contra candidatura ou contra resultado de eleição, por estrita arguição de ilegalidade, observados os seguintes prazos:
+I - dois dias, contra candidatura(s), contados a partir do encerramento do período de inscrições;
+II - cinco dias, contra resultado de eleição, contados a partir da divulgação do resultado.
+
+
+#index 31
+Art. 27. Nas eleições em órgãos colegiados, serão também observados os seguintes aspectos:
+I - no ato da inscrição de chapas, os candidatos indicarão o membro efetivo e o suplente, para cumprimento de mandatos vinculados, caso sejam eleitos;
+II - a eleição ocorrerá ao longo de uma reunião, cuja duração poderá ser ampliada, e será verificado, quando da apuração dos votos, se foi obtido o quorum regulamentar;
+III - a escolha de nomes pelo colegiado poderá ocorrer mediante três sistemáticas de eleição:
+a) simbólica, quando se tratar de indicação ou designação de nome(s) para compor(em) as próprias comissões ou outros colegiados;
+b) secreta, com votação em cédula, sempre que o Plenário julgar conveniente, ou quando a situação requerer sigilo;
+c) nominal, mediante o requerimento de, pelo menos, um terço dos membros do colegiado.
+IV  - o Presidente do colegiado nomeará comissões receptora e escrutinadora;
+V - a apuração da eleição ocorrerá na mesma sessão em que for realizada a votação;
+VI - será considerado eleito o candidato que obtiver a maioria simples de votos dos presentes, exceto nos casos em que for prevista maioria qualificada.
+
+
+#index 32
+Art. 28. Nas eleições em órgãos colegiados, para a escolha do(s) próprio(s) dirigente(s), serão observados os seguintes procedimentos:
+I - será adotado o processo de votação secreta;
+II - será considerado eleito o candidato que obtiver a maioria absoluta dos votos dos membros do colegiado.
+Parágrafo único. Haverá eleição para recompor vaga liberada por membro eleito para atuar como dirigente do colegiado.
+
+
+#index 33
+Art. 29. Nas eleições em órgãos colegiados, para a elaboração de lista de nomes para escolha de dirigente(s), serão observados os seguintes procedimentos:
+I  -  o Presidente do colegiado nomeará comissões receptora e escrutinadora;
+II - será adotado o processo de votação secreta;
+III - cada eleitor terá direito a um voto apenas, exercido pessoalmente, em um único nome para cada cargo a ser provido;
+IV - serão realizados tantos escrutínios quantos forem necessários para a integralização da lista de nomes;
+V - a apuração da eleição será realizada na mesma sessão em que ocorrer a votação.
+Parágrafo único. A lista de nomes, elaborada por ordem decrescente dos votos obtidos, será encaminhada à autoridade competente, pelo menos trinta dias antes do término do mandato do dirigente em exercício; nos demais casos, será enviada no prazo de trinta dias subsequentes à vacância do cargo, ressalvados os prazos determinados em lei.
+
+
+#index 34
+Art. 30. Nas eleições previstas neste Título, sempre que houver empate, será considerado eleito o servidor docente ou técnico-administrativo em educação mais antigo em exercício na UFMG e, no caso de persistir o empate, o mais idoso.
+
+
+#index 35
+Art.  31.  Nas eleições de representantes para comporem órgãos colegiados, o membro suplente será eleito com mandato vinculado ao do efetivo, para substituí-lo em suas faltas e impedimentos, ocorrendo perda da representação, no caso de vacância da representação efetiva, observado o disposto no art. 13, § 5o deste Regimento Geral.
+
+
+#index 36
+Art. 32. Nas eleições para escolha de Reitor, Diretor de Unidade ou de Órgão Complementar e Suplementar, Chefe de Departamento e Coordenador de Colegiado de Curso, sem prejuízo de concomitância eleitoral, os votos para eleição dos respectivos substitutos legais serão atribuídos e apurados separadamente, em virtude de os mandatos serem desvinculados.
+
+
+#index 37
+Art.  33.  Quaisquer outras eleições que ocorrerem na UFMG, por determinação de regimentos ou regulamentos de órgãos específicos, seguirão os dois modelos configurados neste Subtítulo.
+TÍTULO III
+Do Ensino, Pesquisa e Extensão
+ 
+
+
+#index 38
+Art. 34. O ensino, a pesquisa e a extensão, atividades fundamentais e indissociáveis da Universidade, obedecerão aos dispositivos deste Título, que serão complementados por normas gerais e resoluções aprovadas pelo Conselho de Ensino, Pesquisa e Extensão.
+SUBTÍTULO I
+Do Ensino Superior
+ 
+CAPÍTULO I
+Disposições Básicas
+ 
+
+
+#index 39
+Art. 35. Os cursos de Graduação, de Pós-Graduação e a Residência, bem como os cursos Sequenciais e outros, têm como objetivo a formação acadêmica e profissional do discente, em nível superior.
+
+
+#index 40
+Art. 36. O regime didático-científico dos cursos de Graduação e de Pós-Graduação será regulamentado pelo Conselho de Ensino, Pesquisa e Extensão, por meio das Normas Gerais de Graduação e das Normas Gerais de Pós-Graduação, respectivamente, nos termos do artigo 5o, § 2o, inciso II, alínea a deste Regimento Geral.
+§ 1o Os cursos de Residência e os cursos Sequenciais, bem como novas modalidades de formação a serem implementadas, serão regulamentados pelo Conselho de Ensino, Pesquisa e Extensão.
+§ 2o Os cursos referidos no art. 35 poderão ser oferecidos na forma a distância, a ser regulamentada pelo Conselho de Ensino, Pesquisa e Extensão, observados os princípios, as normas deste Regimento Geral e a legislação vigente.
+
+
+#index 41
+Art. 37. A criação e a extinção de curso, atribuições do Conselho Universitário, serão propostas pelo Conselho de Ensino, Pesquisa e Extensão, por iniciativa própria ou da Congregação da Unidade Acadêmica responsável por sua oferta.
+Parágrafo único. A criação de curso será proposta mediante projeto aprovado pela(s) Congregação(ões) da(s) Unidade(s) Acadêmica(s) envolvida(s).
+
+
+#index 42
+Art. 38. O Conselho de Ensino, Pesquisa e Extensão fixará as vagas iniciais de cada curso, ouvida a Congregação da Unidade sede do respectivo Colegiado do Curso.
+Parágrafo único. Entende-se por vagas iniciais as oferecidas em cada curso, mediante processo seletivo.
+
+
+#index 43
+Art. 39. O ingresso de candidato selecionado para ocupar vaga discente em um curso ofertado pela UFMG será efetivado mediante registro acadêmico, nas datas fixadas no Calendário Escolar da UFMG.
+§ 1o O registro acadêmico, único e obrigatório, corresponde a um número pelo qual o aluno será identificado durante toda a sua permanência na Universidade.
+§ 2o Cada aluno terá direito a um único registro acadêmico, correspondente a uma só vaga no curso em que foi admitido na UFMG.
+
+
+#index 44
+Art. 40. O aluno deverá efetuar sua matrícula em cada período letivo, nas datas fixadas no Calendário Escolar da UFMG.
+§ 1o A matrícula consiste na inscrição do aluno na atividade acadêmica curricular a ser desenvolvida em cada período letivo.
+§ 2o O aluno receberá orientação da Universidade para a efetivação de sua matrícula.
+
+
+#index 45
+Art. 41. A permanência do aluno na UFMG dar-se-á até:
+I - a conclusão do curso e a obtenção do grau acadêmico;
+II - o desligamento e o consequente cancelamento do registro acadêmico, por:
+a) descumprimento de exigências previstas nas Normas Gerais de Graduação e nas Normas Gerais de Pós-Graduação;
+b) aplicação pela Universidade das condições de desligamento previstas nas Normas Gerais de Graduação e nas Normas Gerais de Pós-Graduação considerada a condição pública da vaga ocupada;
+c) aplicação de penalidade prevista no Código de Convivência Discente.
+III - a desistência formal da vaga a que tem direito.
+CAPÍTULO II
+Da Graduação
+  
+
+
+#index 46
+Art. 42. A admissão de alunos aos cursos de Graduação ocorrerá mediante processo seletivo, de acordo com as normas estabelecidas pelo Conselho de Ensino, Pesquisa e Extensão.
+
+
+#index 47
+Art. 43. Uma vez encerrado o período de matrícula nas vagas iniciais de cada curso, conceituadas no artigo 38, as vagas remanescentes porventura existentes serão providas por meio de processo seletivo específico, regulamentado pelas Normas Gerais de Graduação.
+Parágrafo único. Entende-se por vagas remanescentes a diferença entre o quantitativo total de vagas ofertadas em um curso e o número de alunos a ele vinculados, calculada de acordo com norma específica estabelecida pelo Conselho de Ensino, Pesquisa e Extensão.
+
+
+#index 48
+Art. 44. As vagas remanescentes serão oferecidas à comunidade através dos procedimentos de chamada a classificados em lista de excedentes para vagas iniciais, mudança de turno, continuidade de estudos, reopção, transferência e obtenção de novo título.
+§ 1o A chamada a classificados em lista de excedentes para vagas iniciais permite o ingresso de pessoas que, tendo se candidatado ao processo seletivo para vagas iniciais, tenham se classificado em lista de excedentes.
+§ 2o A mudança de turno é a mudança da vinculação do aluno de um turno de funcionamento de um curso para outro turno de funcionamento do mesmo curso.
+§ 3o A continuidade de estudos é a readmissão, na UFMG, de estudante que tenha integralizado um curso de graduação, para obtenção de outro grau acadêmico, outra habilitação ou outra formação complementar no mesmo curso, ou para a obtenção de grau em outro curso, desde que o estudante disponha de tempo de integralização remanescente suficiente para cumprir todas as exigências para integralização da nova formação pretendida.
+§ 4o A reopção é a mudança de vinculação do aluno de um para outro curso da UFMG.
+§ 5o A transferência é a admissão, a cursos de Graduação da UFMG, de alunos oriundos de cursos correspondentes ou afins, ofertados por outras instituições de ensino superior, nacionais ou estrangeiras.
+§ 6o A obtenção de novo título é a oportunidade de o portador de diploma de curso de Graduação, com validade no País, iniciar novo grau acadêmico de mesmo nível na UFMG.
+CAPÍTULO III
+Da Pós-Graduação
+ 
+
+
+#index 49
+Art. 45. A UFMG oferecerá cursos de Pós-Graduação stricto sensu nos seguintes níveis:
+I - Mestrado, cujos objetivos são:
+a) ampliar o conhecimento profissional e acadêmico do aluno;
+b) possibilitar a iniciação do estudante na atividade de pesquisa em área específica;
+c) preparar profissionais para o exercício do magistério superior, nos termos da legislação vigente.
+II - Doutorado, cujos objetivos são:
+a) desenvolver a capacidade do aluno para conduzir pesquisa original e independente;
+b) preparar profissionais para o exercício do magistério superior, nos termos da legislação vigente.
+§ 1o Os cursos de Mestrado e Doutorado em áreas afins poderão ser organizados sob a forma de Programas de Pós-Graduação.
+§ 2o A defesa de tese de Doutorado será obrigatoriamente precedida da aprovação do candidato em exame de qualificação.
+§ 3o As sessões de defesa de tese, de dissertação ou de trabalho equivalente serão públicas.
+
+
+#index 50
+Art. 46. O Conselho de Ensino, Pesquisa e Extensão poderá admitir a candidatura à obtenção do grau de Doutor por defesa direta de tese, cujo processo regulamentará, mediante Resolução Complementar.
+
+
+#index 51
+Art. 47. A UFMG oferecerá cursos de Pós-Graduação lato sensu nos seguintes níveis:
+I - Aperfeiçoamento, cujo objetivo é o aprimoramento de habilidades técnicas em determinada área do conhecimento;
+II  -  Especialização, cujo objetivo é a qualificação profissional do estudante, no contexto de área restrita do conhecimento.
+CAPÍTULO IV
+Da Verificação do Desempenho Acadêmico
+ 
+
+
+#index 52
+Art. 48. O desempenho acadêmico escolar do aluno será verificado em cada atividade acadêmica curricular, abrangendo os aspectos de assiduidade e aproveitamento, cada um dos quais com caráter reprovatório.
+§ 1o A assiduidade mínima obrigatória, em cada atividade acadêmica curricular, é de 75% da carga horária prevista, exceto nos casos estabelecidos em lei.
+§ 2o A verificação do desempenho do aluno será feita por pontos cumulativos, em uma escala de zero a cem.
+
+
+#index 53
+Art. 49. Apurados os resultados finais, o desempenho acadêmico de cada aluno será convertido nos seguintes conceitos:
+I - A: de 90 a 100 pontos;
+II - B: de 80 a 89 pontos;
+III - C: de 70 a 79 pontos;
+IV - D: de 60 a 69 pontos;
+V - E: de 40 a 59 pontos;
+VI - F: abaixo de 40 pontos de aproveitamento e/ou inassiduidade do aluno.
+Parágrafo único. O aluno assíduo que alcançar, no mínimo, conceito D em cada atividade acadêmica curricular, será considerado aprovado e integralizará os créditos correspondentes.
+
+
+#index 54
+Art. 50. A nota semestral global de um aluno de Graduação corresponderá à média ponderada do seu desempenho acadêmico em cada semestre e será calculada de acordo com o disposto nas Normas Gerais de Graduação.
+
+
+#index 55
+Art. 51. As situações especiais de verificação do desempenho acadêmico serão regulamentadas nas Normas Gerais de Graduação.
+CAPÍTULO V
+Do Calendário Escolar
+ 
+
+
+#index 56
+Art. 52. O Departamento de Registro e Controle Acadêmico-DRCA elaborará anualmente, para deliberação do Conselho de Ensino, Pesquisa e Extensão, proposta de Calendário Escolar da UFMG, observados os preceitos legais vigentes.
+
+
+#index 57
+Art. 53. O Colegiado Superior de cada Unidade, ouvidos os Colegiados de Curso e os Colegiados Especiais, promoverá a adequação do calendário em seu âmbito, respeitado o Calendário Escolar da UFMG, aprovado pelo Conselho de Ensino, Pesquisa e Extensão.
+
+
+#index 58
+Art. 54. Em caso de interrupção de atividades, o Calendário Escolar da UFMG será refeito, de modo a garantir a complementação integral da carga horária estabelecida para cada atividade acadêmica curricular, no período letivo.
+SUBTÍTULO II
+Da Educação Básica e Profissional
+ 
+
+
+#index 59
+Art. 55. A Educação Básica e Profissional na UFMG tem os seguintes objetivos:
+I - o desenvolvimento do educando, buscando assegurar-lhe a formação comum indispensável a seu desenvolvimento como pessoa e à sua progressão no trabalho e em estudos posteriores;
+II - a constituição de um campo de produção teórica, metodológica e experimental para a formação do estudante, no ensino superior;
+III - a interação da pesquisa educacional gerada na Instituição com o sistema de Educação Básica e Profissional do País.
+
+
+#index 60
+Art.  56.  As atividades de Educação Básica e Profissional serão desenvolvidas em Unidade Especial, cujo funcionamento será estabelecido pelo Conselho Universitário, mediante regimento específico.
+Parágrafo único. O Conselho de Ensino, Pesquisa e Extensão estabelecerá as Normas Gerais de Educação Básica e Profissional.
+SUBTÍTULO III
+Da Pesquisa e da Extensão
+ 
+
+
+#index 61
+Art. 57. A pesquisa é atividade básica da UFMG, indissociável do ensino, devendo ser estimulada a aplicação de seus resultados.
+
+
+#index 62
+Art. 58. As atividades de pesquisa envolverão instrumentos de fomento, intercâmbio e disseminação, em consonância com as diretrizes estabelecidas pelo Conselho de Ensino, Pesquisa e Extensão.
+Parágrafo único. Será mantido pela UFMG um sistema de registro de dados, necessário ao suporte, ao acompanhamento e à disseminação da pesquisa.
+
+
+#index 63
+Art. 59. A extensão é processo educativo, artístico, cultural e científico, articulado com o ensino e a pesquisa, de forma indissociável, cujo objetivo é ampliar a relação da Universidade com a sociedade.
+§ 1o As atividades de extensão, nas áreas técnica, científica, artística e cultural, serão realizadas sob as formas de programas, projetos, cursos, assessoramentos, prestação de serviços e/ou consultorias, entre outras.
+§ 2o As atividades de extensão integrarão os planos de trabalho tanto dos docentes envolvidos em sua realização, como das Unidades que as promovem.
+
+
+#index 64
+Art. 60. As atividades de extensão envolverão instrumentos de fomento, intercâmbio e disseminação, em conformidade com as diretrizes estabelecidas pelo Conselho de Ensino, Pesquisa e Extensão.
+
+
+#index 65
+Art. 61. O Colegiado Superior de cada Unidade estabelecerá formas de aprovação e acompanhamento das atividades de pesquisa e extensão e da prestação de serviços em seu respectivo âmbito.
+Parágrafo único. Caberá ao Conselho Universitário regulamentar a prestação de serviços, a propriedade intelectual e a proteção ao conhecimento gerado na Universidade.
+SUBTÍTULO IV
+Dos Títulos Universitários
+CAPÍTULO I
+Das Disposições Básicas
+
+
+#index 66
+Art. 62. A UFMG conferirá graus acadêmicos e expedirá os respectivos diplomas:
+I - aos concluintes dos cursos de Graduação e de Pós-Graduação stricto sensu;
+II - aos candidatos a Livre-Docência, aprovados em concurso de títulos e provas, em consonância com os termos da Resolução do Conselho de Ensino, Pesquisa e Extensão que regulamenta a matéria.
+
+
+#index 67
+Art. 63. A UFMG expedirá certificado de conclusão de Cursos de Especialização, Aperfeiçoamento, Ensino Médio, Ensino Fundamental, Extensão e outras modalidades fixadas pelos órgãos competentes.
+
+
+#index 68
+Art. 64. A UFMG expedirá diploma de técnico a alunos concluintes de curso de Educação Profissional.
+
+
+#index 69
+Art. 65. A Universidade outorgará títulos honoríficos de Doutor Honoris Causa, Professor Honoris Causa, Professor Emérito, bem como de Benemérito.
+CAPÍTULO II
+Da Colação de Grau
+ 
+
+
+#index 70
+Art. 66. A colação de grau em curso de Graduação constitui um ato acadêmico público e solene, realizado em sessão da Congregação da Unidade que sedia o curso, sob a direção de seu Presidente ou representante.
+§ 1o O ato de colação de grau é realizado após o encerramento do período letivo, conforme estabelecido no Calendário Escolar da UFMG.
+§ 2o Participará do ato de colação de grau somente o estudante que houver cumprido todos os requisitos exigidos para a obtenção do diploma.
+§ 3o Em casos excepcionais, a requerimento do interessado e a critério do Diretor da Unidade, poderá ser conferido grau em ato administrativo presidido pelo Diretor, na presença de, pelo menos, duas testemunhas ocupantes de cargos na Universidade, em dia, horário e local acordados entre o requerente e o Diretor da Unidade Acadêmica.
+§ 4o Será facultado a diferentes Unidades Acadêmicas agruparem-se para a realização de cerimônia conjunta de colação de grau, sob a presidência do Reitor.
+
+
+#index 71
+Art. 67. Os títulos de Mestre e Doutor, independentemente de ato de colação de grau, serão conferidos mediante a remessa pelo Colegiado do Curso à Pró-Reitoria de Pós-Graduação, da documentação comprobatória do cumprimento pelo aluno de todos os requisitos estabelecidos.
+CAPÍTULO III
+Do Reconhecimento e da Revalidação de Diplomas e Certificados
+
+
+#index 72
+Art. 68. O Conselho de Ensino, Pesquisa e Extensão estabelecerá, por Resolução Complementar, as normas para reconhecimento e revalidação de diplomas acadêmicos conferidos por instituições estrangeiras.
+§ 1o O reconhecimento e a revalidação de diplomas serão requeridos ao Reitor.
+§ 2o Nos processos de revalidação de diplomas de Graduação e de reconhecimento dos de Mestrado e Doutorado, serão apuradas as condições em que foram obtidos e sua equivalência aos conferidos pela UFMG.
+CAPÍTULO IV
+Dos Títulos Honoríficos e das Dignidades Universitárias
+
+
+#index 73
+Art. 69. Os títulos honoríficos são instrumentos através dos quais a Universidade distingue, honra e homenageia personalidades que tenham prestado contribuição relevante à educação, à ciência e à cultura, em geral, e à UFMG, em particular.
+Parágrafo único. Por seu caráter de honraria, os títulos honoríficos não geram deveres nem conferem direitos aos agraciados.
+
+
+#index 74
+Art. 70. São títulos honoríficos outorgados pela Universidade:
+I  - Doutor Honoris Causa, em reconhecimento a contribuições relevantes para a ciência, a tecnologia ou a cultura;
+II -  Professor Honoris Causa, em reconhecimento a contribuições relevantes para a educação;
+III -  Professor Emérito, em reconhecimento aos professores aposentados da UFMG, cujos serviços ao magistério e à pesquisa forem considerados de excepcional relevância;
+IV -  Benemérito, em reconhecimento a contribuições materiais relevantes para a UFMG.
+§ 1o A concessão do título honorífico de Doutor Honoris Causa, Professor Honoris Causa e Benemérito dependerá de proposta fundamentada, subscrita por, pelo menos, cinco membros do Conselho Universitário ou da Congregação proponente e aprovada em escrutínio secreto pelo voto de, no mínimo, dois terços dos membros de ambos os Colegiados.
+§ 2o A concessão do título de Professor Emérito dependerá de proposta fundamentada, subscrita por, pelo menos, três membros da Congregação e aprovada em escrutínio secreto pelo voto de, no mínimo, dois terços dos seus membros.
+
+
+#index 75
+Art. 71. Os títulos de Doutor Honoris Causa e de Professor Honoris Causa não são concedidos a servidor da UFMG, seja do corpo docente, seja do corpo técnico-administrativo em educação, mesmo aposentado.
+
+
+#index 76
+Art. 72. Os títulos honoríficos serão entregues simbolicamente em sessão pública e solene:
+I - do Conselho Universitário, nos casos de Doutor Honoris Causa, Professor Honoris Causa e Benemérito;
+II - da Congregação da Unidade, no caso de Professor Emérito.
+§ 1o Em qualquer caso, a sessão será presidida pelo Reitor.
+§ 2o Será facultado ao agraciado impossibilitado, de comparecer à sessão pública e solene, por motivo de força maior, para recebimento do título honorífico, o encaminhamento de manifestação à UFMG, declarando seu aceite e requerendo sua entrega em caráter simbólico, caso em que o órgão concedente instituirá comissão especificamente para esse fim.
+§ 3o O título honorífico, caso não seja entregue no prazo de um ano de sua concessão, será considerado sem efeito.
+
+
+#index 77
+Art. 73. O Conselho Universitário, por meio de Resolução, estabelecerá instrumentos para o reconhecimento do mérito de membros do corpo técnico-administrativo em educação, que, por sua competência, dedicação e lealdade institucional, se destacarem no exercício de suas atividades profissionais.
+
+
+#index 78
+Art. 74. Cada Congregação poderá instituir um único instrumento de reconhecimento honorífico, mediante a entrega de medalha a servidor do corpo docente ou do corpo técnico-administrativo em educação da Unidade, cuja atuação seja considerada de grande relevância.
+Parágrafo único. A medalha a que se refere o caput deste artigo será outorgada uma única vez, a cada gestão de Diretoria, a apenas um servidor do corpo docente ou do corpo técnico-administrativo em educação, qualquer que seja sua situação no quadro funcional.
+TÍTULO IV
+Da Comunidade Universitária
+
+
+#index 79
+Art. 75. Os princípios que regem a conduta da comunidade universitária definida no art. 68 do Estatuto são:
+I  -  respeito a todas as autoridades universitárias;
+II  - urbanidade no trato dispensado a todos os seus membros;
+III - cumprimento das normas e regulamentos da Instituição;
+IV - probidade na execução das tarefas acadêmicas e administrativas;
+V -  manutenção da ordem no âmbito institucional, ou em qualquer local onde se realize ato ligado à UFMG ou protagonizado por algum de seus membros, na condição de integrante da comunidade universitária definida no art. 68 do Estatuto;
+VI - zelo pelo patrimônio institucional e por bens de terceiros postos a serviço da Universidade;
+VII - conduta compatível com a dignidade universitária, pautada pelos princípios éticos institucionais;
+VIII - respeito ao meio ambiente, atuando de forma a contribuir para evitar a poluição e com atitudes ecologicamente corretas.
+
+
+#index 80
+Art. 76. As políticas relativas aos corpos constituintes da comunidade universitária, definida no art. 68 do Estatuto, serão estabelecidas por Resoluções do Conselho Universitário e do Conselho de Ensino, Pesquisa e Extensão, respeitada a legislação vigente.
+Parágrafo único. As Resoluções a que se refere o caput deste artigo, no que diz respeito ao corpo docente e ao corpo técnico e administrativo, deverão dispor sobre as seguintes matérias:
+I - formas de ingresso nas carreiras;
+II - estágio probatório;
+III - regimes de trabalho;
+IV - capacitação;
+V - cargos e funções diretivas;
+VI - avaliação de desempenho e progressão funcional;
+VII - férias, licenças e afastamentos;
+VIII - transferência, remoção e redistribuição;
+IX - dimensionamento da força de trabalho;
+X - regime disciplinar;
+XI - exoneração e demissão.
+
+
+#index 81
+Art. 77. O provimento permanente de servidores em cargos e empregos do corpo docente e do corpo técnico-administrativo em educação ocorrerá mediante concurso público.
+§ 1o Nos concursos públicos para ingresso nas carreiras de magistério, é assegurada a plena autonomia das bancas ou comissões examinadoras, na avaliação do mérito acadêmico dos candidatos.
+§ 2o Outras formas de provimento de cargos e empregos públicos poderão ser adotadas pela Universidade, respeitada a legislação vigente.
+SUBTÍTULO I
+Do Corpo Docente e do Corpo Técnico e Administrativo
+ 
+CAPÍTULO I
+Do Corpo Docente
+
+
+#index 82
+Art. 78. O corpo docente da UFMG compreende, além dos integrantes das carreiras de magistério, Professores Visitantes e Professores Substitutos.
+§ 1o Os integrantes das carreiras de magistério constituem o quadro permanente de professores da UFMG.
+§ 2o O Professor Visitante e o Professor Substituto, por não pertencerem às carreiras de magistério, integram transitoriamente o corpo docente, sendo-lhes vedado o exercício de funções e cargos de direção e representação, privativos dos integrantes das carreiras de magistério, e a participação em qualquer processo eleitoral, seja como candidatos, seja como eleitores.
+§ 3o O Professor Visitante será contratado para prestar colaboração transitória em projetos especiais de ensino, pesquisa ou extensão, nos termos da legislação vigente, desde que não tenha pertencido anteriormente ao quadro permanente da Universidade.
+§ 4o O Professor Substituto, necessariamente portador de diploma de curso superior, será contratado por tempo determinado, nos termos da legislação vigente, a fim de atender a necessidades eventuais, específicas do ensino de Graduação ou da Educação Básica e Profissional.
+§ 5o O Professor Emérito, definido no inciso III do art. 70 do presente Regimento e selecionado de acordo com o § 2o do mesmo artigo, poderá colaborar, voluntariamente, nas atividades acadêmicas da Universidade, em comum acordo com a direção da Unidade e a chefia do Departamento ao qual era vinculado antes de aposentar-se.
+
+
+#index 83
+Art. 79. O Professor Convidado, prestador de serviço voluntário à Universidade, terá sua atuação regulamentada pela legislação vigente, e sua colaboração não gerará qualquer vínculo empregatício ou profissional com a UFMG.
+CAPÍTULO II
+Do Corpo Técnico e Administrativo
+
+
+#index 84
+Art. 80. O corpo técnico e administrativo cujo conjunto constitui a força de trabalho do referido corpo, nos termos da legislação vigente, compreende:
+I - servidores pertencentes à carreira dos cargos técnico-administrativos em educação;
+II - pessoal técnico e administrativo não pertencente à carreira.
+
+
+#index 85
+Art. 81. Os integrantes da carreira dos cargos técnico-administrativos em educação constituem o quadro permanente do corpo técnico e administrativo da UFMG.
+
+
+#index 86
+Art. 82. O pessoal técnico e administrativo não pertencente à carreira integrará transitoriamente o corpo técnico e administrativo, sendo-lhe vedado o exercício da representação, privativa dos integrantes da carreira, bem como a participação em qualquer processo eleitoral, tanto na condição de candidato como de eleitor.
+
+
+#index 87
+Art. 83. O pessoal do corpo técnico e administrativo será lotado na Reitoria, nas Unidades Acadêmicas, nas Unidades Especiais, nos Órgãos Suplementares e nos órgãos de apoio à Reitoria.
+§ 1o Compete ao Reitor determinar o local de exercício do pessoal técnico e administrativo lotado na Reitoria e em seus órgãos de apoio.
+§ 2o Compete ao Diretor de Unidade Acadêmica, de Órgão Suplementar ou Diretor-Geral de Unidade Especial determinar o local de exercício do pessoal técnico e administrativo lotado nessas Unidades e nesses Órgãos.
+
+
+#index 88
+Art. 84. O corpo técnico-administrativo em educação terá representação nos órgãos colegiados, nos termos do art. 84 do Estatuto e seus parágrafos, assegurada a participação de um servidor, caso ocorra fração inferior a um inteiro, no cálculo do quantitativo de seus representantes.
+Parágrafo único. A representação a que se refere o caput deste artigo far-se-á também no caso de comissão que venha a ser instituída para tratar de matéria de natureza técnico-administrativa.
+
+
+#index 89
+Art. 85. A UFMG manterá plano de desenvolvimento do pessoal do corpo técnico e administrativo, mediante a realização de programas permanentes destinados a promover sua capacitação, seu aperfeiçoamento e sua qualificação.
+
+
+#index 90
+Art. 86. O Técnico Administrativo Convidado, prestador de serviço voluntário à Universidade, terá sua atuação regulamentada pela legislação vigente, e sua colaboração não gerará qualquer vínculo empregatício ou profissional com a UFMG.
+CAPÍTULO III
+Do Regime Disciplinar do Corpo Docente
+e do Corpo Técnico-Administrativo em Educação
+
+
+#index 91
+Art. 87. O regime disciplinar do corpo docente e do corpo técnico-administrativo em educação, no que concerne a deveres, proibições, responsabilidades, penalidades e processos administrativos disciplinares, obedecerá ao disposto no Regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, na legislação complementar vigente, no Estatuto da UFMG e neste Regimento Geral.
+
+
+#index 92
+Art. 88. Na aplicação do regime disciplinar a membros do corpo docente e do corpo técnico-administrativo em educação, serão considerados os seguintes aspectos:
+I - a constituição de comissão de sindicância, como medida precedente e indicativa da necessidade de instauração de processo administrativo disciplinar, observado o disposto na legislação que regulamenta o processo administrativo no âmbito da Administração Pública Federal;
+II - a obrigatoriedade da composição de comissão de sindicância e de comissão de processo administrativo disciplinar por servidores de categoria funcional equivalente ou superior à do acusado;
+III - o princípio do contraditório, assegurada ampla defesa ao acusado;
+IV - a proibição de desligamento de servidor envolvido em processo administrativo disciplinar, seja a pedido, seja por aposentadoria voluntária, antes da conclusão do processo e do cumprimento da penalidade, caso aplicada.
+
+
+#index 93
+Art. 89. São penalidades disciplinares aplicáveis ao corpo docente e ao corpo técnico-administrativo em educação da UFMG:
+I -   advertência;
+II -  suspensão;
+III - demissão;
+IV - cassação de aposentadoria ou de disponibilidade;
+V -  destituição de cargo em comissão;
+VI - destituição de função comissionada.
+
+
+#index 94
+Art. 90. Na aplicação das penalidades, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais do servidor.
+§ 1o A primeira pena de suspensão aplicada a um servidor não poderá exceder trinta dias.
+§ 2o Em caso de reincidência, a pena de suspensão não poderá exceder noventa dias.
+§ 3o No interesse da Administração Pública, a penalidade de suspensão poderá ser convertida em multa, na base de cinquenta por cento por dia de vencimento, remuneração ou salário, caso em que o servidor ficará obrigado a permanecer em serviço.
+
+
+#index 95
+Art. 91. São autoridades competentes para constituir comissão de sindicância e instaurar processo administrativo disciplinar:
+I - o Diretor, quando se tratar de atos praticados no âmbito da respectiva Unidade ou em locais externos, tanto em atividades sob a responsabilidade da própria Unidade, como em ações de membros de seu corpo docente ou técnico-administrativo em educação, em situações que envolvam o nome da Unidade.
+II - o Reitor, quando se tratar de atos praticados nos demais âmbitos da UFMG, ou em locais externos tanto em atividades programadas pela Instituição como em ações de membro de seu corpo docente ou técnico-administrativo em educação, que envolvam o nome da Universidade.
+
+
+#index 96
+Art. 92. São autoridades competentes para aplicar as penalidades disciplinares:
+I  - a chefia imediata, nos casos de advertência, aplicável por escrito;
+II - o Diretor de Unidade Acadêmica, de Órgão Suplementar, Diretor-Geral de Unidade Especial, os Pró-Reitores ou o Reitor, nos casos de suspensão pelo período de até trinta dias;
+III - o Reitor, nos casos de suspensão por período superior a trinta dias, ou de rescisão contratual por justa causa;
+IV - a autoridade responsável pela nomeação, quando se tratar de destituição de cargo em comissão exercido por não ocupante de cargo efetivo;
+V - o Ministro de Estado da Educação, nos casos de demissão, ressalvadas as subdelegações de competência, na forma da lei.
+SUBTÍTULO II
+Do Corpo Discente
+
+
+#index 97
+Art. 93. O corpo discente da UFMG, nos termos do art. 76 do Estatuto, é constituído pelos alunos regularmente matriculados nos cursos de Graduação, Especialização, Residência, Mestrado e Doutorado.
+
+
+#index 98
+Art. 94. Os alunos dos cursos de Educação Básica e Profissional terão seus direitos e deveres regulamentados em Resolução específica do Conselho Universitário.
+CAPÍTULO I
+Das Associações Estudantis
+
+
+#index 99
+Art. 95. A UFMG reconhecerá como órgão de representação do corpo discente, no plano da Universidade, o Diretório Central dos Estudantes-DCE, e, no plano das Unidades, os Diretórios Acadêmicos-DAs ou Centros Acadêmicos-CAs, entidades autônomas organizadas nos termos dos respectivos estatutos e cujas atas de eleição e posse de seus dirigentes sejam cientificadas ao Reitor ou ao Diretor da respectiva Unidade Acadêmica, dispensadas quaisquer outras formalidades.
+§ 1o O DCE, os DAs ou CAs, conforme o âmbito definido no caput deste artigo, comunicarão ao Reitor, ou ao Diretor da respectiva Unidade Acadêmica, os nomes dos membros integrantes de sua diretoria, sempre que houver mudança de gestão, mediante apresentação da ata de eleição e posse dos seus dirigentes, dispensadas quaisquer outras formalidades.
+§ 2o Os dirigentes do DCE, dos DAs ou dos CAs serão responsáveis pela comunicação ao Reitor, ou ao Diretor da respectiva Unidade Acadêmica, dos nomes dos representantes do corpo discente nos órgãos colegiados da Universidade.
+
+
+#index 100
+Art. 96. Além dos órgãos mencionados no art. 95 deste Regimento Geral, a Universidade poderá reconhecer outras associações discentes, nas respectivas áreas de atuação, nos termos do art. 79 do Estatuto.
+
+
+#index 101
+Art. 97. O estudante que exercer funções em diretorias, conselhos ou órgãos equivalentes das associações estudantis não ficará desobrigado do cumprimento de seus deveres escolares, incluída a assiduidade a cada atividade acadêmica curricular, observado o disposto no art. 13 deste Regimento Geral.
+
+
+#index 102
+Art. 98. A Universidade poderá permitir o uso de suas instalações pelas associações estudantis, mediante autorização da autoridade competente, respeitadas as normas relativas ao patrimônio público e as disposições do Estatuto da UFMG, deste Regimento Geral, de Regimentos específicos ou de Resoluções dos órgãos colegiados.
+§ 1o As associações estudantis serão inteiramente responsáveis por seu próprio funcionamento e pela realização de suas atividades, quer ocupem espaços próprios, quer utilizem áreas da UFMG ou de terceiros.
+§ 2o A utilização indevida do objeto de cessão de uso, caso comprovada, acarretará a aplicação das sanções legais cabíveis aos responsáveis.
+
+
+#index 103
+Art. 99. A doação de bens materiais ou a eventual destinação de recursos financeiros às associações estudantis pela Reitoria ou por Unidade Acadêmica somente serão efetivadas mediante a apresentação de plano de aplicação, formulado pela diretoria da associação destinatária e aprovado pelo Conselho Universitário, no caso do DCE, e pela Congregação, no caso de DA ou CA.
+§ 1o O recebimento de recursos financeiros implicará a obrigatoriedade de prestação de contas pela diretoria da associação estudantil ao órgão colegiado pertinente, no prazo máximo de trinta dias após sua aplicação.
+§ 2o A ausência da devida prestação de contas constituirá impedimento à concessão de novos recursos, caso em que a autoridade competente determinará a apuração do uso dos recursos já concedidos.
+§ 3o A eventual constatação de uso indevido dos recursos financeiros ou do objeto de doação acarretará a aplicação das sanções legais cabíveis aos responsáveis, incluídas as previstas neste Regimento Geral.
+CAPÍTULO II
+Da Representação Discente
+
+
+#index 104
+Art. 100. O corpo discente terá representação, com direito a voz e a voto, nos órgãos colegiados da Universidade e de Unidades Acadêmicas, na forma do artigo 78 do Estatuto.
+
+
+#index 105
+Art. 101. A representação discente se dará na proporção de um quinto dos conselheiros docentes, com mandato de um ano, permitida uma recondução, independentemente do cumprimento integral ou não do mandato anterior.
+§ 1o Quando o cálculo da representação discente resultar em fração, o número de representantes será o inteiro imediatamente superior, desde que esse número não ultrapasse um quinto do total dos membros do órgão, já acrescido da representação.
+§ 2o Independentemente do cálculo indicado no parágrafo anterior, será garantida a participação de um representante discente.
+§ 3o O mandato de um ano dos representantes discentes será vinculado respectivamente ao mandato da diretoria do DCE, no plano da Universidade, e ao mandato da diretoria dos DAs ou CAs, no plano das Unidades, encerrando-se simultaneamente com o das citadas diretorias, qualquer que seja o tempo de mandato já cumprido pelo representante.
+§ 4o Na ocorrência de vacância na representação discente, durante o mandato de uma diretoria de DCE, DA ou CA, poderá ser indicado substituto para completar o mandato da representação, cujo nome será comunicado nos termos do art. 95, § 1o deste Regimento Geral, com a antecedência mínima de três dias úteis da data da reunião do colegiado de que participará o representante pela primeira vez.
+§ 5o A representação discente nos colegiados da UFMG somente será exercida por aluno regularmente matriculado em curso de Graduação, Pós-Graduação ou Residência.
+
+
+#index 106
+Art.  102.  A representação discente será exercida nos seguintes colegiados:
+I -  Conselho Universitário;
+II -  Conselho de Ensino, Pesquisa e Extensão;
+III - Conselho de Curadores;
+IV - Conselho de Diretores;
+V  - Comissão Permanente de Pessoal Docente;
+VI - Congregações;
+VII - Conselhos Departamentais;
+VIII - Colegiados de Curso;
+IX - Câmaras Departamentais;
+X  - Assembleias Departamentais.
+Parágrafo único. A representação discente a que se refere o caput deste artigo poderá ser estendida, em caráter excepcional, a comissões temporárias, a critério do órgão instituidor ou da autoridade competente, conforme o caso.
+CAPÍTULO III
+Dos Prêmios aos Estudantes
+
+
+#index 107
+Art.  103.  Compete ao Conselho Universitário, no âmbito da Universidade, e às Congregações, no âmbito das Unidades, a criação de prêmios e a concessão de honrarias, com vistas ao reconhecimento do mérito estudantil.
+CAPÍTULO IV
+Do Regime Disciplinar do Corpo Discente
+
+
+#index 108
+Art. 104. A ordem disciplinar na UFMG, condição indispensável ao êxito dos trabalhos de toda a comunidade universitária definida no art. 68 do Estatuto, deverá ser mantida com a cooperação ativa dos membros do corpo discente, inclusive dos alunos com vínculo eventual e temporário.
+
+
+#index 109
+Art. 105. Os princípios que regem a conduta do discente, no que concerne à ordem disciplinar, são:
+I -   respeito ao professor e às demais autoridades universitárias;
+II -  respeito aos membros do corpo técnico e administrativo;
+III - respeito aos colegas;
+IV - urbanidade no trato com todos os membros da comunidade universitária definida no art. 68 do Estatuto;
+V -   cumprimento das normas e regulamentos da Instituição;
+VI -  probidade na execução dos trabalhos escolares;
+VII - manutenção da ordem, tanto em recintos da Universidade, como em qualquer local onde se realizem atos ligados à Instituição ou protagonizados por membro de seu corpo discente, em função da condição de integrante da comunidade universitária definida no art. 68 do Estatuto;
+VIII - zelo pelo patrimônio institucional e por bens de terceiros postos a serviço da Universidade;
+IX -  conduta compatível com a dignidade universitária, pautada pelos princípios éticos institucionais.
+
+
+#index 110
+Art. 106. O Conselho Universitário, mediante Resolução Complementar aprovada por maioria absoluta de votos, com base nos princípios consagrados neste Capítulo, estabelecerá o Código de Convivência Discente, disciplinando matérias referentes a aplicação de penalidades, instauração de processo disciplinar, direito ao exercício do contraditório, interposição de recursos e previsão dos efeitos e implicações decorrentes da aplicação das sanções.
+Parágrafo único. Os alunos matriculados nos níveis Fundamental e Médio do Ensino Básico e no Ensino Profissional, sujeitos aos mesmos princípios estabelecidos neste Capítulo, serão regidos por Código Disciplinar da Educação Básica e Profissional, especificamente proposto, em cada caso, pelo Colegiado Especial de Educação Básica e Profissional e aprovado pelo Conselho de Ensino, Pesquisa e Extensão, mediante Resolução Complementar aprovada por maioria absoluta de votos.
+CAPÍTULO V
+Da Assistência ao Corpo Discente
+
+
+#index 111
+Art. 107. A Fundação Universitária Mendes Pimentel-FUMP, constituída sob a forma de fundação de direito privado, sem fins lucrativos, com personalidade jurídica e patrimônio próprios, é a entidade responsável pela assistência aos estudantes carentes da UFMG, podendo obter repasses de recurso(s) orçamentário(s) especificamente destinados a esse fim.
+
+
+#index 112
+Art. 108. A FUMP, nos termos do seu Estatuto, será dirigida por um Conselho Diretor, do qual participarão representantes dos docentes e discentes da UFMG.
+
+
+#index 113
+Art. 109. Os objetivos, as atribuições, a estrutura administrativa e as normas de funcionamento da FUMP serão definidos em seu Estatuto, aprovado pelo Conselho Universitário, a partir dos seguintes princípios:
+I - a assistência à alimentação, à saúde, à moradia ou à manutenção de estudantes é restrita, unicamente, àqueles considerados carentes, nos termos dos critérios de carência estabelecidos pelo Conselho Diretor da Fundação;
+II - os critérios de carência serão estabelecidos com base em análise técnica e deverão contemplar aspectos socioeconômicos e culturais;
+III - o benefício somente será mantido enquanto o bolsista permanecer como estudante regular da UFMG, ou enquanto estiver afastado para tratamento de saúde recomendado por profissional credenciado pela FUMP;
+IV - o benefício somente será mantido enquanto o bolsista demonstrar efetivo interesse pelo estudo e cumprir com dedicação seus deveres escolares, incluída a assiduidade a cada atividade acadêmica curricular, segundo critérios elaborados pelo Conselho Diretor da FUMP;
+V - o valor e a natureza dos benefícios poderão variar de acordo com a carência de recursos comprovada;
+VI - o ressarcimento dos benefícios recebidos pelo aluno, não necessariamente na forma de pecúnia, ocorrerá mediante compromisso formal do bolsista, de acordo com critérios elaborados pelo Conselho Diretor da FUMP;
+VII - o Conselho Diretor da FUMP estabelecerá parâmetros especiais de assistência a estudantes intercambistas carentes;
+VIII - em caso da extinção da FUMP, seus bens serão revertidos ao patrimônio da UFMG.
+
+
+#index 114
+Art. 110. A FUMP contará com um Fundo de Bolsas, com o propósito de viabilizar os programas de assistência aos estudantes carentes.
+§ 1o O Fundo de Bolsas será constituído por contribuição solidária, por doações de pessoas físicas ou jurídicas, por contribuições de organismos do setor público e pelo reembolso por parte de beneficiados pelos programas assistenciais da FUMP.
+§ 2o A administração do Fundo de Bolsas caberá à FUMP, segundo normas e critérios aprovados por seu Conselho Diretor.
+
+
+#index 115
+Art. 111. Os recursos do Fundo de Bolsas serão aplicados exclusivamente na administração e na execução dos programas assistenciais destinados aos estudantes carentes da UFMG.
+
+
+#index 116
+Art. 112. Nos termos previstos no Estatuto da FUMP, obedecidas as restrições deste Regimento Geral, a Fundação poderá também oferecer serviços a estudantes da UFMG não considerados carentes, desde que não impliquem dispêndio de recursos advindos do Fundo de Bolsas.
+
+
+#index 117
+Art. 113. A Presidência da FUMP submeterá anualmente à aprovação do Conselho Universitário a proposta orçamentária da Fundação para o exercício seguinte e a prestação de contas do ano anterior.
+§ 1o A proposta orçamentária anual da FUMP explicitará a porcentagem dos recursos destinados ao custeio da administração da assistência discente na UFMG.
+§ 2o A proposta orçamentária anual da FUMP será encaminhada ao Reitor até 30 de setembro do ano anterior ao exercício, e a prestação de contas, até 30 de março do ano subsequente.
+TÍTULO V
+Da Revisão
+ 
+
+
+#index 118
+Art. 114. As decisões acadêmicas e administrativas de autoridades ou órgãos da Universidade são passíveis de revisão, por razões de legalidade ou mérito, salvo disposição diversa expressamente prevista no Estatuto da UFMG, neste Regimento Geral ou em regulamentação sobre matéria específica, observada a legislação vigente.
+Parágrafo único. Têm legitimidade para pedir revisão:
+I - por razão de mérito ou de legalidade, o interessado titular de direito que se considerar prejudicado por decisão acadêmica ou administrativa;
+II  -  por razão de legalidade, qualquer membro da comunidade universitária definida no art. 68 do Estatuto.
+
+
+#index 119
+Art. 115. A revisão parcial ou total da decisão poderá ser provocada mediante dois instrumentos:
+I - pedido de reconsideração, de caráter conciliatório, que se aterá ao âmbito original da decisão, sendo vedada sua reiteração pelo requerente;
+II - interposição direta de recurso à instância superior, caso o interessado tenha optado por não dar previamente encaminhamento a pedido de reconsideração, ou caso seu pedido tenha sido indeferido.
+Parágrafo único. Na análise e no julgamento dos pedidos de revisão, será garantido ao interessado direito ao exercício do contraditório e à ampla defesa.
+
+
+#index 120
+Art. 116. No caso de concursos públicos para as carreiras de magistério, somente será considerado pedido de revisão por estrita arguição de ilegalidade.
+
+
+#index 121
+Art. 117. O pedido de revisão, seja por solicitação de reconsideração, seja por interposição de recurso, tramitará, no máximo, por três instâncias administrativas, salvo disposição normativa diversa.
+
+
+#index 122
+Art. 118. O prazo para apresentação de pedido de reconsideração ou interposição de recurso é de dez dias, contados a partir da ciência do teor da decisão pelo interessado direto, ou a partir de sua divulgação oficial por edital afixado em local público e visível, ou por publicação em órgão de comunicação interno ou externo à Universidade.
+§ 1o No caso de concurso público, poderão ser estabelecidos prazos recursais específicos, através de resolução própria.
+§ 2o O prazo para recurso, no caso específico das eleições previstas no Estatuto, obedecerá ao disposto no art. 26, § 2o deste Regimento Geral.
+
+
+#index 123
+Art. 119. A fase instrutória do processo se encerrará quando da emissão do relatório ou parecer que subsidiará a tomada de decisão pela autoridade ou órgão recorrido.
+Parágrafo único. O interessado poderá anexar documentação ao processo somente durante a fase instrutória, ou seja, antes da emissão do parecer.
+
+
+#index 124
+Art.  120.  O pedido de reconsideração e a interposição de recurso somente serão recebidos:
+I  - por escrito;
+II - dentro do prazo;
+III - pelo órgão competente;
+IV - por quem seja legitimado;
+V  - pessoalmente, mediante protocolo.
+Parágrafo único. Na hipótese de não observância ao disposto no inciso III deste artigo, será indicada ao recorrente a autoridade competente e lhe será devolvido o prazo para recurso.
+
+
+#index 125
+Art. 121. Salvo disposição legal contrária, o recurso será recebido com efeito devolutivo.
+
+
+#index 126
+Art. 122. O recurso será recebido com efeito suspensivo somente nas seguintes circunstâncias:
+I - se, da execução imediata do ato ou da decisão recorrida, puder resultar sua ineficácia, com prejuízo irreparável para o recorrente, no caso de seu provimento;
+II - se o recurso for interposto por discente, contra penalidades de suspensão ou de desligamento.
+Parágrafo único. A autoridade ou órgão recorrido deverá fundamentar seu ato, este último por sua presidência, tanto no caso de reconhecimento como de recusa do pedido de efeito suspensivo.
+
+
+#index 127
+Art. 123. É vedada a atuação no processo por autoridade ou membro da comunidade universitária definida no art. 68 do Estatuto que:
+I -   tenha interesse direto ou indireto na matéria;
+II -  seja parte do processo, cônjuge, companheiro(a), parente e afim do recorrente, até o terceiro grau;
+III - esteja litigando judicial ou administrativamente com o próprio recorrente ou com seu cônjuge ou companheiro(a).
+
+
+#index 128
+Art. 124. A autoridade ou membro da comunidade universitária definida no art. 68 do Estatuto que incorrer em situação de impedimento deverá comunicar o fato à autoridade competente e abster-se de atuar no processo.
+Parágrafo único. Ficará sujeito a sanção disciplinar aquele que se omitir do dever de comunicar seu próprio impedimento a quem de direito.
+
+
+#index 129
+Art. 125. Concluída a fase instrutória do processo, a autoridade ou órgão recorrido terá prazo de até trinta dias para emitir decisão, salvo prorrogação por igual período, expressamente motivada, ou quando a lei fixar prazo diferente.
+
+
+#index 130
+Art. 126. A autoridade ou membro de órgão colegiado responsável por ato ou decisão objeto de revisão ficará impedido de participar de deliberação sobre a matéria em instância superior, exceto se estiver no exercício de sua presidência.
+Parágrafo único. Excluídos os membros impedidos de participar, o quorum exigido para deliberação será automaticamente ajustado.
+
+
+#index 131
+Art. 127. Concluído o julgamento, a decisão será comunicada ao interessado, e o processo remetido à autoridade ou órgão competente, para cumprimento da deliberação, ou arquivamento, no caso de indeferimento do pedido de revisão.
+
+
+#index 132
+Art. 128. O processo poderá ser extinto:
+I - pelo próprio interessado, se, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado, ou se renunciar a direitos cabíveis;
+II - por autoridade ou órgão competente, se julgar exaurida a finalidade do processo, ou se o objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente.
+Parágrafo único. A desistência ou renúncia por parte do interessado não impedirá o prosseguimento do processo, se a Universidade considerar que o interesse público exige sua continuidade.
+
+
+#index 133
+Art. 129. A revisão de uma decisão retroagirá à data do ato impugnado.
+TÍTULO VI
+Da Ordem Econômico-Financeira
+
+
+#index 134
+Art. 130. A UFMG administrará e utilizará seu patrimônio, constituído por bens imóveis, móveis, títulos e direitos existentes ou que venham a ser adquiridos, seja com recursos financeiros da União ou próprios, seja por meio de doações e legados.
+Parágrafo único. A aquisição e a alienação de imóveis dependem de autorização do Conselho Universitário, ouvido o Conselho de Curadores.
+
+
+#index 135
+Art. 131. A utilização do patrimônio da UFMG para a realização de festas e eventos similares, bem como a cessão de espaços da Universidade para a realização eventual de atividades por órgãos externos deverão ser autorizadas pelo Diretor de Unidade, ou pelo Diretor de Órgão Suplementar, em seus respectivos âmbitos, e pelo Reitor, nos demais ambientes institucionais.
+§ 1o A autorização mencionada no caput deste artigo será registrada por escrito e estabelecerá as condições de uso do espaço cedido.
+§ 2o As condições de uso contemplarão, especialmente, os princípios enunciados no art. 75, incisos I, V e VI deste Regimento Geral.
+
+
+#index 136
+Art. 132. A UFMG administrará e utilizará os bens, direitos e valores que lhe pertenciam antes de sua transformação em entidade federal, segundo o disposto no art. 3o, §1o da Lei no 971, de 16 de dezembro de 1949.
+
+
+#index 137
+Art. 133. A UFMG procederá ao registro atualizado e ao controle regular de seu patrimônio.
+
+
+#index 138
+Art. 134. O Conselho Universitário, por Resolução Complementar a ser aprovada por maioria absoluta de seus membros, poderá criar campus integrante de seu patrimônio e aprovar seu respectivo Regulamento de Uso e Ocupação, respeitado o disposto no art. 13 do Estatuto da UFMG.
+
+
+#index 139
+Art. 135. Os recursos financeiros da UFMG são provenientes de:
+I  -  dotação orçamentária da União;
+II - subvenções, auxílios, contribuições, doações e verbas atribuídas à Universidade por Estados, Municípios, Autarquias e órgãos do setor público e por pessoas físicas e jurídicas nacionais, internacionais e estrangeiras;
+III - financiamentos e contribuições originários de acordos, convênios, contratos e protocolos;
+IV - taxas, contribuições ou emolumentos, em consonância com os termos estatutários e regimentais;
+V -  serviços prestados à comunidade por intermédio de órgãos universitários e regulados por resolução específica;
+VI -  alienação ou aplicação de bens;
+VII - parafiscalidade ou estímulo fiscal;
+VIII - multas e penalidades financeiras;
+IX  - outras rendas.
+
+
+#index 140
+Art. 136. A prestação de serviços remunerados, as taxas cobradas, as contribuições e os emolumentos obtidos pela UFMG serão especificados e fixados mediante deliberações do Conselho Universitário.
+
+
+#index 141
+Art. 137. Conhecido o montante dos recursos financeiros da União atribuídos à UFMG, a Reitoria elaborará, nos termos da legislação vigente, o orçamento da Universidade, a ser aprovado pelo Conselho Universitário, após pronunciamento do Conselho de Curadores.
+
+
+#index 142
+Art. 138. O orçamento da UFMG será uno, coincidindo o exercício financeiro com o ano civil.
+
+
+#index 143
+Art. 139. O orçamento-programa da UFMG e, consequentemente, as programações orçamentárias de Unidades e órgãos serão elaborados em consonância com seu Plano de Desenvolvimento Institucional-PDI.
+§ 1o A elaboração do Plano de Desenvolvimento Institucional-PDI, a ser aprovado pelo Conselho Universitário, de acordo com o previsto no art. 13, inciso II do Estatuto da UFMG, ficará a cargo de órgão permanente responsável pela avaliação e pelo acompanhamento da vida da Instituição.
+§ 2o A Reitoria baixará instruções relativas a prazos, condições, modelos e demais aspectos a serem observados na elaboração de propostas orçamentárias, orçamento-programa e planos de investimento.
+§ 3o As Unidades e os órgãos universitários deverão fornecer, até a data estipulada pela Administração Central, a estimativa de suas despesas referentes ao exercício financeiro seguinte, para subsidiar o estudo e a organização da proposta orçamentária da UFMG.
+
+
+#index 144
+Art. 140. As Unidades e órgãos universitários interessados em firmar convênios, acordos, protocolos ou contratos com entidades financiadoras deverão, juntamente com a Reitoria, elaborar os projetos em que serão aplicados os recursos financeiros pretendidos.
+
+
+#index 145
+Art. 141. A prioridade prevista para a aplicação de receitas patrimoniais, advindas da prestação de serviços e dos bens sob a guarda de Unidades e órgãos, prevalecerá até o exercício financeiro subsequente àquele em que foi auferida a receita.
+
+
+#index 146
+Art. 142. A UFMG remeterá anualmente sua proposta orçamentária ao Ministério de Estado da Educação, no prazo estabelecido.
+
+
+#index 147
+Art. 143. Os regimes orçamentário e contábil da UFMG são os estabelecidos na legislação vigente, observadas as instruções e disposições orçamentárias elaboradas pela Reitoria e aprovadas pelo Conselho Universitário, conforme previsto no art. 13, inciso VII do Estatuto da UFMG.
+Parágrafo único. As instruções mencionadas no caput deste artigo deverão prever, no mínimo:
+I  -  o processo de aquisição de material e de execução de serviços;
+II -  a constituição de subcomissão de licitação em cada Unidade;
+III - os formulários a serem utilizados, seu fluxo e sua rotina;
+IV - o processamento de receitas e despesas nas Unidades e nos órgãos da UFMG.
+
+
+#index 148
+Art. 144. No prazo estabelecido, a Reitoria apresentará à autoridade competente o Balanço Geral da UFMG, compreendendo os movimentos patrimonial, econômico e financeiro da Instituição.
+Parágrafo único. A UFMG determinará prazos, condições, normas e modelos para que as Unidades e os órgãos universitários forneçam as informações necessárias à preparação do Balanço Geral.
+
+
+#index 149
+Art. 145. A Reitoria apresentará anualmente ao Conselho Universitário as contas de sua gestão e o Balanço Geral da UFMG, devidamente apreciados pela Auditoria-Geral e pelo Conselho de Curadores.
+Parágrafo único. Os agentes ordenadores de despesas são pessoalmente responsáveis pela aplicação dos recursos.
+TÍTULO VII
+Das Disposições Gerais e Transitórias
+
+
+#index 150
+Art. 146. Os prazos expressos em dias, no presente Regimento Geral, serão contados de modo contínuo.
+§ 1o A contagem do prazo exclui o dia do começo e inclui o dia do vencimento.
+§ 2o Quando a data inicial ou final coincidir com dia em que não houver funcionamento na Instituição, ou em que o expediente for encerrado antes do horário normal, o prazo será prorrogado para o primeiro dia útil subsequente.
+
+
+#index 151
+Art. 147. Os prazos fixados em meses ou anos contam-se de data a data, salvo disposição em contrário.
+Parágrafo único. Se, no mês do vencimento, não houver o dia equivalente àquele do início do prazo, tem-se como termo o último dia do mês.
+
+
+#index 152
+Art. 148. Os prazos processuais não se suspendem, salvo motivo de força maior devidamente comprovado, ou no caso de decisões que dependam da análise de órgão colegiado, em prazos compreendidos entre a data de encerramento de um período letivo e a de início do próximo, definidas no Calendário Escolar da UFMG.
+
+
+#index 153
+Art. 149. Este Regimento Geral somente poderá ser modificado por proposta do Reitor ou de um terço, no mínimo, dos membros do Conselho Universitário.
+Parágrafo único. Qualquer alteração no texto regimental exigirá a aprovação da maioria absoluta dos membros do Conselho Universitário, em reunião especialmente convocada para esse fim, ouvido o Conselho de Ensino, Pesquisa e Extensão, no que for de competência específica deste órgão.
+
+
+#index 154
+Art. 150. Uma vez aprovado este Regimento Geral, as determinações que envolverem matéria pedagógica ou de algum modo ligadas ao ensino entrarão em vigor no período letivo subsequente ao de sua publicação.
+Parágrafo único. O disposto no caput deste artigo será igualmente aplicável a eventuais alterações no texto deste Regimento Geral.
+
+
+#index 155
+Art. 151. As Resoluções Complementares previstas neste Regimento Geral serão aprovadas pelos respectivos órgãos colegiados, no prazo máximo de cento e oitenta dias, a partir da entrada em vigor da presente Resolução.
+§ 1o Em caráter provisório, até que seja cumprida a determinação estabelecida no caput deste artigo, ficam convalidadas todas as disposições contidas nas Resoluções e Normas vigentes na UFMG, inclusive as do Regimento Geral da Universidade publicado no Diário Oficial da União em 30 de julho de 1990 (Resolução no 12/90, de 17/05/1990), desde que não conflitem com os dispositivos deste Regimento Geral.
+§ 2o Nos casos conflitantes, prevalecerá o disposto neste Regimento Geral.
+
+
+#index 156
+Art. 152. Os casos omissos neste Regimento Geral serão resolvidos pelo Conselho Universitário, pelo voto de, no mínimo, a maioria absoluta de seus membros.
+
+
+#index 157
+Art. 153. Revogam-se as disposições em contrário, em especial a Resolução Complementar no 03/2018, de 17 de abril de 2018.
+
+
+#index 158
+Art. 154. Este Regimento Geral entrará em vigor na data da sua publicação no Boletim Informativo da UFMG.
